@@ -1,2 +1,2 @@
 # demo
-For demo example
+For Spring Restful API demo example
